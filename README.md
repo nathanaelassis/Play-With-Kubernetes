@@ -1,6 +1,6 @@
 # Criando cluster Kubernetes on-line
-- Play With Kubernetes 
-- URL: https://labs.play-with-k8s.com/
+- <b>Play With Kubernetes</b>
+- <b>URL:</b> https://labs.play-with-k8s.com/
 
 ## Info
 - Tempo limite de utilização 4hs
