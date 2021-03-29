@@ -38,6 +38,6 @@
 
  ```kubeadm join 192.168.0.22:6443 --token qi5hc0.m5w8shybipdqlinb --discovery-token-ca-cert-hash sha256:c1893ee98ed90d8726dbf457c9ec0e98593a334c49ed7313f81cf23e53854afe```
 
-em todos os nodes que deseja ser inserido no cluster.
+Rodas em todos os nodes que deseja ser inserido no cluster.
 
 - Após isso é só ir no node master e executar o comando  ```kubectl get nodes``` para ter a informação dos nodes do cluster configurado.
