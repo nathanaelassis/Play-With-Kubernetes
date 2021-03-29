@@ -19,7 +19,7 @@
  3. (Optional) Create an nginx deployment:
  ```kubectl apply -f https://raw.githubusercontent.com/kubernetes/website/master/content/en/examples/application/nginx-app.yaml```
 ------------------------------------------------------------------
-- No primeira passo inicializaremos o cluster.
+- No primeiro passo inicializaremos o cluster.
 - No segundo passo configuraremos a network do cluster
 - No terceiro passo é opcional e pode ser realizado quando todo o cluter já estiver configurado.
 
