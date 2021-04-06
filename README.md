@@ -34,7 +34,7 @@
 - Agora podemos adicionar 1 ou mais nodes clicando em "<b>+ ADD NEW INSTANCE</b>"
 - Nesse caso não precisamos rodar os passos informados na tela de abertura, pois já executamos no master.
   
-- Para adicionar os nodes no cluster basta rodar o comando:
+- Para adicionar os nodes no cluster basta rodar o comando, conforme exemplo abaixo:
 
  ```kubeadm join 192.168.0.22:6443 --token qi5hc0.m5w8shybipdqlinb --discovery-token-ca-cert-hash sha256:c1893ee98ed90d8726dbf457c9ec0e98593a334c49ed7313f81cf23e53854afe```
 
